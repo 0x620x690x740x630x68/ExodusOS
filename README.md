@@ -1,5 +1,5 @@
 # ExodusOS
-A modern, but purist TempleOS Distrobution, built as a better platform to develop HolyC programs on.
+A modern, but purist TempleOS Distribution, built as a better platform to develop HolyC programs on.
 
 Features include:
 - 60FPS Patch
