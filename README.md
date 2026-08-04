@@ -1,4 +1,4 @@
-# ExoduOS
+# ExodusOS
 A modern, but purist TempleOS Distrobution.
 
 I built this TempleOS Ditro as a better platform to write HolyC programs on.
