@@ -1,7 +1,5 @@
 # ExodusOS
-A modern, but purist TempleOS Distrobution.
-
-I built this TempleOS Ditro as a better platform to write HolyC programs on.
+A modern, but purist TempleOS Distrobution, built as a better platform to develop HolyC programs on.
 
 Features include:
 - 60FPS Patch
